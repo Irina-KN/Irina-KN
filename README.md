@@ -2,8 +2,12 @@
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/13aa123e368277e924204a590761b3e8/9203134bcb94f388-33/s500x750/e28566094ee7d8e5d4b4043091f7796c3e86d0ab.gif">
 
-- 📫 How to reach me **ira.feshenko98@gmail.com**
-
+ - How to contact me:
+   
+   📫  **email: ira.feshenko98@gmail.com**
+   
+   ✉️ **telegram: @rina_fn**
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
